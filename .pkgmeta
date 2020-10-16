@@ -1,0 +1,7 @@
+package-as: PlexusGridStatusRD_SL
+
+ignore:
+ - .pkgmeta
+ - .travis.yml
+ - info.txt
+
