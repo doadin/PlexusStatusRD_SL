@@ -1,4 +1,4 @@
-package-as: PlexusGridStatusRD_SL
+package-as: PlexusStatusRD_SL
 
 ignore:
  - .pkgmeta

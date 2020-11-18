@@ -1,6 +1,6 @@
 -- local zone = "Castle Nathria"
 local _, _, _, tocversion = GetBuildInfo() --luacheck: ignore 113
-if tocversion <= 90001 then
+if tocversion <= 90002 then
    return
 end
 local zoneid = 13224
