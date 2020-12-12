@@ -1,5 +1,5 @@
 -- local zone = "Castle Nathria"
-local zoneid = 13224
+local zoneid = 1735
 
 -- Trash
 
