@@ -12,3 +12,4 @@
 ## X-Curse-Project-ID: 411702
 
 CastleNathria.lua
+SanctumofDomination.lua
