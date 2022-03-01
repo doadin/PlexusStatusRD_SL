@@ -13,3 +13,4 @@
 
 CastleNathria.lua
 SanctumofDomination.lua
+SepulcheroftheFirstOnes.lua
