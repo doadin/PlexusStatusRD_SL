@@ -37,7 +37,8 @@ GridStatusRaidDebuff:DebuffId(zoneid, 364030, 306, 5, 5, true) -- Debilitating R
 -- Dausegne, the Fallen Oracle
 GridStatusRaidDebuff:BossNameId(zoneid, 400, "Dausegne, the Fallen Oracle")
 GridStatusRaidDebuff:DebuffId(zoneid, 361966, 401, 5, 5, true, true) -- Infused Strikes
-GridStatusRaidDebuff:DebuffId(zoneid, 361751, 402, 5, 5, true) -- Disintegration Halo
+GridStatusRaidDebuff:DebuffId(zoneid, 361751, 402, 5, 5, true, true) -- Disintegration Halo
+GridStatusRaidDebuff:DebuffId(zoneid, 364289, 402, 4, 4, true, true) -- Disintegration Halo
 
 -- Prototype Pantheon
 GridStatusRaidDebuff:BossNameId(zoneid, 500, "Prototype Pantheon")
