@@ -129,3 +129,4 @@ GridStatusRaidDebuff:DebuffId(zoneid, 365153, 1114, 5, 5) -- Dominating Will
 GridStatusRaidDebuff:DebuffId(zoneid, 365219, 1115, 5, 5, true) -- Chains of Anguish
 GridStatusRaidDebuff:DebuffId(zoneid, 365385, 1116, 6, 6, true, true) -- Cry of Loathing
 GridStatusRaidDebuff:DebuffId(zoneid, 365174, 1117, 5, 5) -- Defile
+GridStatusRaidDebuff:DebuffId(zoneid, 360281, 1118, 6, 6) -- Rune of Damnation
