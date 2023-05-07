@@ -12,6 +12,8 @@
 ## OptionalDeps: Grid, Plexus
 ## X-Curse-Project-ID: 411702
 
+## IconTexture: Interface\AddOns\Plexus\Media\icon
+
 CastleNathria.lua
 SanctumofDomination.lua
 SepulcheroftheFirstOnes.lua
