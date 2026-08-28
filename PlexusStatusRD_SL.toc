@@ -10,12 +10,12 @@
 ## Notes: Debuff List for Shadowlands
 ## Author: Doadin
 ## Grid Author: Pastamancer & Maia
-## Dependencies: PlexusStatusRaidDebuff
-## OptionalDeps: Grid, Plexus
+## Dependencies: Plexus, PlexusStatusRaidDebuff
+## OptionalDeps: Grid
 ## X-Curse-Project-ID: 411702
 
 ## IconTexture: Interface\AddOns\Plexus\Media\icon
 
-CastleNathria.lua
-SanctumofDomination.lua
-SepulcheroftheFirstOnes.lua
+CastleNathria.lua [AllowLoadGameType standard]
+SanctumofDomination.lua [AllowLoadGameType standard]
+SepulcheroftheFirstOnes.lua [AllowLoadGameType standard]

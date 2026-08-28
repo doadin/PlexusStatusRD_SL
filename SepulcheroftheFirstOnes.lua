@@ -1,5 +1,9 @@
 -- local zone = "Sepulcher of the First Ones"
 local zoneid = 2047
+local Plexus = _G.Plexus
+if Plexus:IsRetailWow() then
+    return
+end
 --zoneid, first, second, icon_priority, color_priority, timer, stackable, color, default_disable, noicon
 
 -- Trash

@@ -1,5 +1,9 @@
 -- local zone = "Castle Nathria"
 local zoneid = 1735
+local Plexus = _G.Plexus
+if Plexus:IsRetailWow() then
+    return
+end
 
 -- Trash
 

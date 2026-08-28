@@ -1,5 +1,9 @@
 -- local zone = "Sanctum of Domination"
 local zoneid = 1998
+local Plexus = _G.Plexus
+if Plexus:IsRetailWow() then
+    return
+end
 --zoneid, first, second, icon_priority, color_priority, timer, stackable, color, default_disable, noicon
 
 -- Trash
